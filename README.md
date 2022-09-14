@@ -7,8 +7,7 @@ sessions.
 ## Resources
 
 ### Katas
-* Code Katas: http://codekata.pragprog.com/
-* RNC Description: http://codingdojo.org/cgi-bin/wiki.pl?KataRomanCalculator
+* RNC Description: https://codingdojo.org/kata/RomanCalculator/
 
 ### Roman Numeral Live Performances
 * Enrique Comba Riepenhausen: http://katas.softwarecraftsmanship.org/?p=21
